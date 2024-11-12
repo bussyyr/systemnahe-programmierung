@@ -13,5 +13,5 @@ This project consists of solutions to the exercise questions provided in the Sys
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/bash-scripting-project.git
+   git clone https://github.com/bussyyr/bash-scripting-project.git
    cd bash-scripting-project
